@@ -1,0 +1,6 @@
+9:08:28 : Starting Victoria 5.37 HDD/SSD. 4xCPU, 3696,99 MHz, Windows 10 x64 found.
+9:08:28 : [Hint] Recommend 32-bit Windows XP for a best work!
+9:08:28 : Warning! Windows x64 detected! PIO mode supported on Windows x86 only.
+9:08:29 : API access enabled, device #0
+15.09.2022
+9:08:29 : Press F1 to About/HELP
